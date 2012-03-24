@@ -212,9 +212,9 @@ td { vertical-align: top; }
    Author:
    ========================================================================== */
 header { position: fixed; top: 0px; }
-div.big-text, li.big-text { color: #fff; font-family: 'Lobster', normal; font-size:124px; text-shadow: 1px 5px 8px rgba(0, 0, 0, 0.8); }
+div.big-text, li.big-text { color: #fff; font-family: 'Lobster', normal; font-size:32px; text-shadow: 1px 5px 8px rgba(0, 0, 0, 0.8); }
 
-div.medium-text, li.medium-text { color: #fff; font-family: 'Cabin Sketch', bold; font-size:64px; text-shadow: 1px 5px 8px rgba(0, 0, 0, 0.8); }
+div.medium-text, li.medium-text { color: #fff; font-family: 'Cabin Sketch', bold; font-size:24px; text-shadow: 1px 5px 8px rgba(0, 0, 0, 0.8); }
 
 section.pane {
     background: #000;
@@ -277,13 +277,28 @@ section.pane > div {
    Modify as content requires.
    ========================================================================== */
 
-@media only screen and (min-width: 480px) {
+@media only screen and (min-width: 321px) {
   /* Style adjustments for viewports 480px and over go here */
+div.big-text, li.big-text { color: #fff; font-family: 'Lobster', normal; font-size:124px; text-shadow: 1px 5px 8px rgba(0, 0, 0, 0.8); }
+
+div.medium-text, li.medium-text { color: #fff; font-family: 'Cabin Sketch', bold; font-size:64px; text-shadow: 1px 5px 8px rgba(0, 0, 0, 0.8); }
+}
+
+@media
+only screen and (-webkit-min-device-pixel-ratio : 1.5),
+only screen and (min-device-pixel-ratio : 1.5) {
+div.big-text, li.big-text { color: #fff; font-family: 'Lobster', normal; font-size:36px; text-shadow: 1px 5px 8px rgba(0, 0, 0, 0.8); }
+
+div.medium-text, li.medium-text { color: #fff; font-family: 'Cabin Sketch', bold; font-size:28px; text-shadow: 1px 5px 8px rgba(0, 0, 0, 0.8); }
 
 }
 
-@media only screen and (min-width: 768px) {
+@media only screen and (max-width: 480px) {
   /* Style adjustments for viewports 768px and over go here */
+
+div.big-text, li.big-text { color: #fff; font-family: 'Lobster', normal; font-size:36px; text-shadow: 1px 5px 8px rgba(0, 0, 0, 0.8); }
+
+div.medium-text, li.medium-text { color: #fff; font-family: 'Cabin Sketch', bold; font-size:28px; text-shadow: 1px 5px 8px rgba(0, 0, 0, 0.8); }
 
 }
 

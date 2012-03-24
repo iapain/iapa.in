@@ -13,7 +13,7 @@ nchor Slider by Cedric Dugas   ***
 $(document).ready(function() {
 
     $("#bubble").everyTime(10, function(){
-             $("#bubble").animate({top:"-15px"}, 600).animate({top:"15px"}, 1370);      
+             $("#bubble").animate({top:"-15px"}, 600).animate({top:"15px"}, 800);      
           });
     $("a.scroll").anchorAnimate()
 
@@ -22,7 +22,7 @@ $(document).ready(function() {
 jQuery.fn.anchorAnimate = function(settings) {
 
     settings = jQuery.extend({
-        speed : 1100
+        speed : 500
     }, settings);   
     
     return this.each(function(){
