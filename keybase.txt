@@ -1,0 +1,65 @@
+==================================================================
+https://keybase.io/iapain
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://iapa.in
+  * I am iapain (https://keybase.io/iapain) on keybase.
+  * I have a public key with fingerprint 855B D01B CF71 0FF9 8E0C  1C41 1B00 19A6 FAE0 D7AD
+
+To claim this, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "855bd01bcf710ff98e0c1c411b0019a6fae0d7ad",
+            "host": "keybase.io",
+            "key_id": "1b0019a6fae0d7ad",
+            "uid": "22cc6ee45ee0d95439e43904ab520b00",
+            "username": "iapain"
+        },
+        "service": {
+            "hostname": "iapa.in",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1414346648,
+    "expire_in": 157680000,
+    "prev": "9e04cb025ae89c050a48025008d0bcf0bc225c4987f9f1f28f95703e5aaca456",
+    "seqno": 6,
+    "tag": "signature"
+}
+
+with the aforementioned key, yielding the PGP signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v1.1.3
+Comment: https://keybase.io/crypto
+
+yMHaAnicbVFtSBRRFB3TWl2oLAhByvLln3CzN+PM7MxaiES/Ss3VCEla38y80Umb
+GWc/dNtWpH5EIUYZZhkSRCVEFmRaRLKaRqUQLmEgRBqUYlIUZEGy9UYK+tGDy+Oe
+e8659743sjqZciY1vyoKL/UMoaSx2HyQqih2d0aAZChh4ImAOrx8qZpegy3T0vQA
+8ACB4yQF0pKsummoqqKAoUzLLE1LENIi4lWEoeJGCnCBWsNvK4iNhPw4TzMIRhKf
+phD0P/zgcoFhZJnHmOUwKYgcmy9iEpBFEsdAIrKJfmzp6CgmbA2ZSNNB1AUIFtJk
+bE9sN/6nnkcILmBaRsCQjXoC1gYCpsfWBMKmTWrEku+P3CdpukIWJoIQtvyaoQMP
+TZhyQLP9aJZm81meZwUXwE2mZmGfZjM4Ny9Acuw2OEQsRQxZWYIMh7AgypCDiBVI
+BqGgQPJ2JBiGk1lRcKuiSquMoIqcG+ZjDiEZsRwP7IUadAN4eDImqiGWfq1GR4Gg
+hUF0OFaVQiU5qVUrV9hfRjnT0v9+ZLwnlXrg8Aw1+yLJF5737WeGU/ta6s92LU7O
+8WFHKPh1GP3gn/aXnMp46V0qK9gqjC4eyxj0Pm779Dkr0dWRdnPiwNjUvVnOM71A
+d2Tu5i6f6biVcfodjJ9v3PHoQ/FieUN3afmGLd87r8R6x683oXXzQstY1s/DJ0FT
+9SZz8Fn8Y+Lu1VmhTMxBEwvbHZsbCpJbU3Lb2sw6M2citOtt8bnq9qnbv2baXf1v
+tuXuuWQElNeF+3qzvyXimdEvaw9eu0g5vZFpx/R9dcBUq1tHG/m6WGJ9dHR84Eh3
+yfv0yTqLG/GeqNy7ZubQk4eVO7PTuquG/DeoF+7jFXPx0qI7hXkbfwPlrROj
+=lX3C
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/iapain
+
+==================================================================
+
